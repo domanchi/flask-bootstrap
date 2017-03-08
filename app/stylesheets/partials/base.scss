@@ -1,0 +1,9 @@
+//  Global Variables go here
+$screen-xs: 480px;                                                                 
+$screen-sm: 768px;                                                                 
+$screen-md: 992px;
+
+$primary-color: gray;
+$secondary-color: rgba(230, 0, 0, 0.7);
+
+@import "modules/all";
